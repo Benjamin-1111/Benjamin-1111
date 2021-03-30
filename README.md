@@ -13,15 +13,15 @@
 </p>
 
 
-<a href="https://github.com/Benjamin-1111">
+<a href="https://github.com/Benjamin-1111/Discord.py-unb-ext">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-1111&repo=Discord.py-unb-ext&theme=material-palenight&card_width=350&show_owner=true" />
 </a>
-<a href="https://github.com/Benjamin-1111">
+<a href="https://github.com/Benjamin-1111/discord.py-afk">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Benjamin-1111&repo=discord.py-afk&theme=material-palenight&card_width=350&show_owner=true" />
 </a>
-<a href="https://github.com/Benjamin-1111">
+<a href="https://github.com/Benjamin-1111?tab=repositories&q=&type=public&language=">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-1111&layout=compact&theme=material-palenight&card_width=350&show_owner=true" />
 </a>
 
